@@ -140,10 +140,8 @@ int main(int argc, char *argv[]) {
 
 ## OUTPUT
 
-<img width="650" height="197" alt="image" src="https://github.com/user-attachments/assets/a6b3f842-f538-47f7-bd93-767bd5738483" />
-
-
-<img width="997" height="846" alt="image" src="https://github.com/user-attachments/assets/5677bac4-f355-4eb7-802b-2f199ebf6a80" />
+<img width="1112" height="575" alt="image" src="https://github.com/user-attachments/assets/92c398f0-bcd9-4c97-9b30-e378cc26be13" />
+<img width="1267" height="813" alt="image" src="https://github.com/user-attachments/assets/161d778e-9ad5-48e7-8e8d-2717bf711dfb" />
 
 
 # RESULT:
